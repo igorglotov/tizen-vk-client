@@ -3,7 +3,7 @@ Description
 
 This is opensource software published under BSD license. See [License](#License) for more info.
 
-Samsing Tizen OS VK.com beta client. Warning: client may be unstable. Tested in Tizen 2.2 emulator.
+Samsung Tizen OS VK.com beta client. Warning: client may be unstable. Tested in Tizen 2.2 emulator.
 
 About
 ===========
